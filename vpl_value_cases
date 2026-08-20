@@ -1,0 +1,23 @@
+input = 0 7
+output = 7
+
+input = -5 -4
+output = -9
+
+input = 2.5 0.5
+output = 3.0
+
+input = 123456789 987654321
+output = 1111111110
+
+input = 0 0
+output = 0
+
+input = 5
+output = ERROR
+
+input = hello world
+output = ERROR
+
+input = None None
+output = None
